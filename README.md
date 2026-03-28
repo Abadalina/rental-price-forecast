@@ -71,10 +71,22 @@ jupyter notebook notebooks/03_rental_price_forecast.ipynb
 
 ---
 
+## Part of the Madrid Housing Portfolio
+
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [spain-rental-eda](https://github.com/Abadalina/spain-rental-eda) | Exploratory data analysis |
+| 2 | [housing-price-ml](https://github.com/Abadalina/housing-price-ml) | ML price prediction |
+| 3 | **rental-price-forecast** | Time series forecasting ← you are here |
+| 4 | [airbnb-reviews-nlp](https://github.com/Abadalina/airbnb-reviews-nlp) | NLP sentiment & topic analysis |
+| 5 | [housing-price-app](https://github.com/Abadalina/housing-price-app) | Streamlit deployment |
+
+---
+
 ## Author
 
 **Alejandro Abadal** — Data Science Student, UOC
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](#) · [GitHub](https://github.com/Abadalina)
 
 ---
 
