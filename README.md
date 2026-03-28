@@ -54,7 +54,7 @@ Reviews are used as a **proxy for bookings** (each review typically follows a st
 ## Installation & usage
 
 ```bash
-git clone https://github.com/alejandroabadal/rental-price-forecast.git
+git clone https://github.com/Abadalina/rental-price-forecast.git
 cd rental-price-forecast
 pip install -r requirements.txt
 jupyter notebook notebooks/03_rental_price_forecast.ipynb
